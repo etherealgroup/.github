@@ -1,0 +1,3 @@
+## Hello from etheralDev 👋
+
+A full stack discord bot in the works...
